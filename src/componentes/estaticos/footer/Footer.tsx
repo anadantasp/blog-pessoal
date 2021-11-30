@@ -9,7 +9,7 @@ function Footer() {
         <>
             <Grid container direction="row" justifyContent="center" alignItems="center">
                 <Grid alignItems="center" item xs={12}>
-                    <Box style={{ backgroundColor: "#375156", height: "120px" }}>
+                    <Box style={{ backgroundColor: "#B4304A", height: "120px" }}>
                         <Box paddingTop={1} display="flex" alignItems="center" justifyContent="center">
                             <Typography variant="h5" align="center" gutterBottom style={{ color: "white" }}>Siga-nos nas redes sociais </Typography>
                         </Box>
@@ -25,7 +25,7 @@ function Footer() {
                             </a>
                         </Box>
                     </Box>
-                    <Box style={{ backgroundColor: "#D7E6EC", height: "60px" }}>
+                    <Box style={{ backgroundColor: "#FFEAEA", height: "60px" }}>
                         <Box paddingTop={1}>
                             <Typography variant="subtitle2" align="center" gutterBottom style={{ color: "#375156" }} >© 2021 Copyright:</Typography>
                         </Box>

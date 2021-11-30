@@ -4,7 +4,7 @@ import { AppBar, Toolbar, Typography, Box } from '@material-ui/core';
 function Navbar() {
     return (
         <>
-            <AppBar position="static" style={{background: "#375156"}}>
+            <AppBar position="static" style={{background: "#B4304A"}}>
                 <Toolbar variant="dense">
                     <Box style={{ cursor: "pointer" }} >
                         <Typography variant="h5" color="inherit">
