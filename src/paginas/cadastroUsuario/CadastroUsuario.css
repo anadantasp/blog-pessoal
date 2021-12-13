@@ -1,18 +1,32 @@
 .imagem2{
-    background-image: url(https://i.imgur.com/d5bMdDJ.jpg);
+    background-image: url(https://i.imgur.com/ATJsJ6A.png);
+        background-repeat: no-repeat;
+        width: 100vh; 
+        min-height: 100vh;
+        background-size: cover; 
+        background-position: center;;
+
+}
+
+.cor2{
+    background-color: #FFEAEA!important;
     background-repeat: no-repeat;
     width: 100vh; 
     min-height: 100vh;
-    background-size: cover; 
-    background-position: center;
-
+    background-size: cover;
 }
 
 .textos2{
     font-weight: bold!important;
+    color: #B4304A!important;
 }
 
 .btnCancelar{
     margin-right: 20px !important;
+    background-color: rgb(158, 22, 22)!important;
 
+}
+
+.btnCadastrar{
+    background-color: rgb(39, 90, 39)!important;
 }
